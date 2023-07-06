@@ -3,7 +3,7 @@
 	"Lang": "ru",
 	"DebugLog": false,
 	"ВерсияVA": "ver 1.2.040.15",
-	"КаталогФич": "C:\\Users\\evgeniya.barabash\\Documents\\TestQA\\Features\\Internal\\Продажи\\Заполнение шапки документа Заказ.feature",
+	"КаталогФич": "C:\\Users\\evgeniya.barabash\\Documents\\TestQA\\Features_IRP\\Internal\\Проверка отчетов\\Проверка отчетов.feature",
 	"ДобавлятьКИмениСценарияУсловияВыгрузки": false,
 	"ЗаписыватьВидеоВыполненияТестов": false,
 	"КоличествоКадровВидеоВыполненияТестов": 5,
@@ -144,7 +144,8 @@
 	"ДелатьОтчетВоВнутреннемФормате": false,
 	"КаталогиБиблиотек": [
 		"C:\\Users\\evgeniya.barabash\\Documents\\vanessa-automation\\features\\Libraries",
-		"C:\\Users\\evgeniya.barabash\\Documents\\TestQA\\Features\\External"
+		"C:\\Users\\evgeniya.barabash\\Documents\\TestQA\\Features\\External",
+		"C:\\Users\\evgeniya.barabash\\Documents\\TestQA\\Features_IRP\\External"
 	],
 	"СписокТеговИсключение": [
 		"IgnoreOnCIMainBuild"
